@@ -5,3 +5,4 @@
 ### Code Operation
 
 Here is how to run my code...
+To run this code, make sure to have Python 3 installed on Ubuntu or Linux. 
